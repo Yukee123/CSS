@@ -1,0 +1,36 @@
+body{
+    background:black;
+}
+.nav{
+    width:100%;
+}
+.alist{
+    border:2px black solid;
+    background:white;
+    width:70%"align="left;
+}
+.navi{
+    background-color:cyan;
+    height:30px;
+    width:100%;
+    position: fixed;
+    margin-top:-44px;
+}
+.white{
+    border:2px black solid;
+    background:white;
+    width:70%
+}
+span{
+    color:white;
+}
+.black{
+    color:black;
+}
+.sign{
+    color:white
+}
+hr{
+    height:5px;
+    background-color:rgba(69,43,12);
+}

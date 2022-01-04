@@ -1,0 +1,33 @@
+body{
+    background-image: url('01.gif');
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h3{
+    color:white
+}
+span{
+    border-radius:200px;
+    float:left;
+    margin-top:-120px;
+}
+hr{
+    height:5px;
+    background-color:rgba(69,43,12);
+}
+div{
+    color:white
+}
+input 1{
+    height:30px;
+    width:300px;
+    border-radius:6px
+}
+a 2{
+    text-decoration:none;
+    border:2px black solid;
+    background-color:#f7f7f7;
+    color:black;
+}

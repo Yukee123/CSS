@@ -1,0 +1,36 @@
+body{
+    background-image:url('YUKee.gif');
+    background-repeat:no-repeat;
+    background-size: cover;
+    text-align:center;
+
+}
+h1{
+    color:cyan;
+}
+input{
+    height:30px;
+    width: 300px;
+
+}
+div{
+    background-color:cyan;
+    height:60px;
+    width:100%;
+    position:fixed;
+    margin-top:-11px;
+}
+a{
+    text-decoration:none;
+    border:0px black solid; 
+    background-color:#f7f7f7;
+    color:black;
+    border-radius:2px;
+    font-weight:100
+}
+label{
+    color:white;
+}
+caption{
+    color:white;
+}
